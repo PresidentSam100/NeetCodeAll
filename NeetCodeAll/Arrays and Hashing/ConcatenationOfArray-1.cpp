@@ -11,3 +11,9 @@ public:
         return concatenation;
     }
 };
+/*
+Strategy: Push back and push back
+n is the length of array nums
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
