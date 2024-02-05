@@ -20,5 +20,5 @@ public:
 Strategy: Hash Table with array
 n is the max length of strings s and t
 Time Complexity: O(n)
-Space Complexity: O(n)
+Space Complexity: O(1)
 */
