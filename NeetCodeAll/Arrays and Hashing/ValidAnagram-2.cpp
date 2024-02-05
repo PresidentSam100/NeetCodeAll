@@ -23,5 +23,5 @@ public:
 Strategy: Hash Tabling
 n is the max length of strings s and t
 Time Complexity: O(n)
-Space Complexity: O(n)
+Space Complexity: O(1)
 */
